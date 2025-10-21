@@ -23,9 +23,11 @@ string verb1 = Console.ReadLine();
 Console.Write(noun);
 string noun1 = Console.ReadLine();
 
-string story = "There was a " + adj1 + " " + noun1 + ". This " + noun1 + " tried to " + verb1 + " its pet turtle.";
+string story = "There was a " + adj1 + " " + noun1 + ". This " + noun1 + " tried to " + verb1 + " its pet turtle. \nIt did not go that well.\n";
 Console.WriteLine(story);
-Console.WriteLine("I hope you enjoye this! Have a great day. 😇");
+Console.WriteLine("I hope you enjoyed this! Have a great day. 😇");
+
+
 public class UnitTest1
 {
     [Fact]
