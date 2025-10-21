@@ -16,21 +16,16 @@ string noun = "Please enter a new noun: (name an animal)\n";
 
 Console.Write(adj);
 string adj1 = Console.ReadLine();
+
 Console.Write(verb);
 string verb1 = Console.ReadLine();
-
 
 Console.Write(noun);
 string noun1 = Console.ReadLine();
 
-
-
 string story = "There was a " + adj1 + " " + noun1 + ". This " + noun1 + " tried to " + verb1 + " its pet turtle.";
 Console.WriteLine(story);
-
-
-
-
+Console.WriteLine("I hope you enjoye this! Have a great day. 😇");
 public class UnitTest1
 {
     [Fact]
