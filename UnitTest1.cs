@@ -1,4 +1,6 @@
-﻿//Nephi Allen.   lab 9.    Oct.21,2025
+﻿//Nephi Allen.
+//lab 9.
+
 
 Console.Clear();
 Console.WriteLine(@"This game is fun! 
