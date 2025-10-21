@@ -3,6 +3,7 @@
 // 10/21/25
 
 Console.Clear();
+Console.Beep();
 Console.WriteLine(@"This game is fun! 
 It is designed to take words you give it, and then it will tell you a story that you helped write!
 Sounds fun, doesn't it. Give it a go!
